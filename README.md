@@ -1,7 +1,7 @@
 
 # Calculating the 8<sup>th</sup> Dedekind number
 
-This project contains the code for the bachelor project of Arjen Teijo Zijlstra
+This project contains the code for the bachelor project of Arjen T. Z.
  which had the goal to calculate the 8<sup>th</sup> Dedekind number following
  Wiedemann (1991)'s strategy to compute d<sub>n+2</sup> from D<sub>n</sup>.
 
